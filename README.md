@@ -4,7 +4,7 @@ This repository is arranged accorndig the following architecture:
 
     | Root |
         |---- | Modules |
-                  |--- | Teorical Lessons |
+                  |--- | Theoretical Lessons |
                   |--- | Pratical Lessons |
  
  The modules will be the following:
@@ -29,7 +29,7 @@ This repository is arranged accorndig the following architecture:
 1. Shell Scripting
     1. Basic Linux commands
     1. How to make your own script
-1. Computer Securoty
+1. Computer Security
     1. Phising - Ramsonware and Information Theft
     1. Acces on public WI-FI
     1. Passord Managers
